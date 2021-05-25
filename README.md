@@ -1,6 +1,3 @@
 # SCAMP-Assessment
-Data science technical assessment for She Code Africa Mentoring Program
-Dataset = Amazon Top 50 Bestselling Books 2009 - 2019
-Download the dataset from; https://github.com/she-code-africa/SCAMP-Cohort4-Technical-assessment/blob/master/intermediate/dataset.csv
+This is my overall assessment projects during the course of She Code Africa Mentoring Program Data science technical Track. Ranging from python projects, data analysis, machine learning, model deployment and so on.
 
-WEEK 1 ASSIGNMENT
